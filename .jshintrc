@@ -1,0 +1,10 @@
+{
+    "asi": false,
+    "forin": true,
+    "curly": true,
+    "eqnull": true,
+    "node": true,
+    "predef": [ "module", "console", "exports" ],
+    "strict": false,
+    "validthis": true
+} 
